@@ -4,15 +4,14 @@
 
 <img align ="right" alt="code" width="400" src="https://i.ytimg.com/vi/LOkzJMG10Q8/maxresdefault.jpg">
 
-- 🌱 I’m currently learning **Hadoop and TensorFlow**
+- 🌱 I’m currently learning **Deep Learning , Computer vision and NLP**
 
 - 🤝 I’m looking for help with **Front End developing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliNaveed01](https://github.com/AliNaveed01)
 
-- 📫 How to reach me **naveedsonu984@gmail.com**
+- 📫 How to reach me **pynaveed.ali@gmail.com**
 
-- ⚡ Fun fact **I am a singer and guitarist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
