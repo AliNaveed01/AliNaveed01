@@ -4,9 +4,9 @@
 
 <img align ="right" alt="code" width="400" src="https://i.ytimg.com/vi/LOkzJMG10Q8/maxresdefault.jpg">
 
-- 🌱 I’m currently learning **Deep Learning , Computer vision and NLP**
+- 🌱 I’m currently learning **Transfer Learning , Computer vision and NLP**
 
-- 🤝 I’m looking for help with **Front End developing**
+- 🤝 I’m looking for help with **Deep Learning projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliNaveed01](https://github.com/AliNaveed01)
 
