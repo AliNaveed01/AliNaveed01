@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naveed Ali</h1>
-<h3 align="center">A Data Science Senior from Fast University Lahore Campus</h3>
+<h3 align="center">A Senior Year Data Scientist at Fast NUCES Lahore</h3>
 
 
 <img align ="right" alt="code" width="400" src="https://i.ytimg.com/vi/LOkzJMG10Q8/maxresdefault.jpg">
 
-- 🌱 I’m currently learning **Transfer Learning , Fine-Tuning Deep Learning Models, Computer vision and NLP**
+- 🌱 I’m currently learning **Fine tuning LLM's ,Federated Learning ,Transfer Learning , Fine-Tuning Deep Learning Models, Computer vision and NLP**
 
 - 🤝 I’m looking for help with **Deep Learning projects**
 
