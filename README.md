@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Fine tuning LLM's ,Federated Learning ,Transfer Learning , Fine-Tuning Deep Learning Models, Computer vision and NLP**
 
-- 🤝 I’m looking for help with **Deep Learning projects**
+- 🤝 I’m looking for help with **Deep Learning projects and Deploying them**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliNaveed01](https://github.com/AliNaveed01)
 
