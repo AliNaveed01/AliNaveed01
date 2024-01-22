@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliNaveed01](https://github.com/AliNaveed01)
 
-- 📫 How to reach me **pynaveed.ali@gmail.com**
+- 📫 You can reach out at  **pynaveed.ali@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
