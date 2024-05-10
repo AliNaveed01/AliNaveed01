@@ -4,7 +4,7 @@
 
 <img align ="right" alt="code" width="400" src="https://i.ytimg.com/vi/LOkzJMG10Q8/maxresdefault.jpg">
 
-- 🌱 I’m currently learning **Federated Learning ,Transfer Learning , Language Modeling, Fine-Tuning Deep Learning Models, Computer vision and NLP**
+- 🌱 I’m currently learning **Transfer Learning , Language Modeling, Fine-Tuning Deep Learning Models, Computer vision and NLP**
 
 - 🤝 I’m looking for help with **Developing and Deploying Deep Learning Projects**
 
