@@ -4,7 +4,7 @@
 
 <img align ="right" alt="code" width="400" src="https://i.ytimg.com/vi/LOkzJMG10Q8/maxresdefault.jpg">
 
-- 🌱 I’m currently learning **Transfer Learning , Language Modeling, Fine-Tuning Deep Learning Models, Computer vision and Integrating DL projects in Embedded Systems**
+- 🌱 I’m currently learning **Fine-Tuning Deep Learning Models, Computer vision and Integrating DL projects in Edge Devices**
 
 - 🤝 I’m looking for help with **Developing and Deploying Deep Learning Projects**
 
