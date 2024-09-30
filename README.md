@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveed Ali</h1>
-<h3 align="center">A Machine Learning Engineer at Nexpred Solutions Pvt. Ltd. </h3>
+<h3 align="center">A Machine Learning Engineer at Nexpred Solutions Private Ltd. </h3>
 
 
 <img align ="right" alt="code" width="400" src="https://i.ytimg.com/vi/LOkzJMG10Q8/maxresdefault.jpg">
