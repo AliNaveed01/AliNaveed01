@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working in Computer Vision Production Team and learning **Fine-Tuning Deep Learning Models, Computer vision and Integrating DL projects in Edge Devices and Cloud**
 
-- 🤝 I’m looking for help with **Developing and Deploying Deep Learning Projects**
+- 🤝 I’m looking for help with **Building Products from scratch**
 
 - Here is my Portfolio https://naveed-portfolio.pages.dev/
 
