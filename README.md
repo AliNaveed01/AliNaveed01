@@ -102,10 +102,13 @@ I help businesses and startups **deploy real-world AI** — from edge-powered vi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliNaveed01&layout=compact&theme=radical" height="150"/>
 </p>
 
+
+
+
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AliNaveed01&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=AliNaveed01&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
