@@ -2,10 +2,11 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Every Sunday
-  push:
-    branches: ["main"]
+    - cron: "0 0 * * 0"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,4 +15,4 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: AliNaveed01
-          THEME: github_dark  # Options: github_light, radical, tokyonight, solarized_dark etc.
+          THEME: github_dark
