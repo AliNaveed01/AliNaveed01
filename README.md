@@ -31,32 +31,31 @@ I help businesses and startups **deploy real-world AI** — from edge-powered vi
 
 ---
 
-## 🚀 Core Competencies
+## 🧰 Tech Stack & Tools
 
-### 📸 Computer Vision
-`YOLOv8`, `MMDetection`, `OpenCV`, `Detectron2`, `Pose Estimation`, `OCR`, `Segmentation`, `Re-ID`, `Tracking`, `Tesseract`, `Video Intelligence`
+### 🔬 Machine Learning & CV
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🧠 Machine & Deep Learning
-`PyTorch`, `TensorFlow`, `Scikit-learn`, `XGBoost`, `CNN`, `RNN`, `Autoencoders`, `GANs`, `TorchServe`
+### 💬 LLMs & NLP
+![Hugging Face](https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-blueviolet?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-008080?style=for-the-badge)
 
-### 🧾 NLP + LLMs
-`LangChain`, `RAG`, `GPT-4`, `Claude`, `Mistral`, `LLaMA`, `Embeddings`, `Text Classification`, `NER`, `FAISS`, `Chroma`
+### 🧱 MLOps & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 📦 MLOps & Deployment
-`FastAPI`, `Flask`, `Docker`, `ONNX`, `TensorRT`, `TFLite`, `Edge Devices (Jetson, ESP32, HailoAI)`, `CI/CD`, `GitHub Actions`
-
----
-
-## 🧰 Tools & Frameworks
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-E34F26?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-f8d3a2?style=flat&logo=huggingface&logoColor=black)
+### 📊 Analytics & Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
@@ -64,7 +63,7 @@ I help businesses and startups **deploy real-world AI** — from edge-powered vi
 
 | Project | Description |
 |--------|-------------|
-| [**QualiCast**](https://github.com/AliNaveed01/QualiCast) | AI-powered quality control tool with real-time classification |
+| [**QualiCast**](https://github.com/AliNaveed01/QualiCast) | AI-powered visual quality control tool with real-time classification |
 | [**ScrapeNExplain**](https://github.com/AliNaveed01/ScrapeNExplain) | LLM-based tool for web scraping + article summarization |
 | [**DeepScene**](https://github.com/AliNaveed01/DeepScene) | Scene classification using custom CNNs |
 | [**SwingRadar**](https://github.com/AliNaveed01/SwingRadar) | Motion tracking via vision-based analytics |
@@ -92,28 +91,3 @@ I help businesses and startups **deploy real-world AI** — from edge-powered vi
 - 🐙 [GitHub](https://github.com/AliNaveed01)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/naveed-ali-l201244/)
 - 📧 pynaveed.ali@gmail.com
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliNaveed01&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliNaveed01&layout=compact&theme=radical" height="150"/>
-</p>
-
-
-
-
----
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=AliNaveed01&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/AliNaveed01/AliNaveed01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
