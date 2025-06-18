@@ -83,21 +83,6 @@ I help businesses and startups **deploy real-world AI** — from edge-powered vi
 - ✅ Deep Learning Specialization (5-course) — DeepLearning.ai
 - ✅ Data Science Skill Track (9 courses) — DataCamp
 
----
-
-## 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AliNaveed01/AliNaveed01/gh-profile-summary-cards-output/profile-summary-card-output/github_dark/3-stats.svg" />
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AliNaveed01/AliNaveed01/gh-profile-summary-cards-output/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/AliNaveed01/AliNaveed01/gh-profile-summary-cards-output/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-</p>
-
-
 
 ## 📫 Let's Connect
 
