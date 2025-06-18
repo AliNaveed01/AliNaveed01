@@ -1,30 +1,116 @@
-<h1 align="center">Hi 👋, I'm Naveed Ali</h1>
-<h3 align="center">A Machine Learning Engineer at Nexpred Solutions Private Ltd. </h3>
+<h1 align="center">👋 Hi, I'm Naveed Ali</h1>
+<h3 align="center">AI/ML Engineer | Computer Vision Specialist | LLM Integrator</h3>
 
-
-<img align ="right" alt="code" width="400" src="https://i.ytimg.com/vi/LOkzJMG10Q8/maxresdefault.jpg">
-
-- 🌱 I’m currently working in Computer Vision Production Team and learning **Fine-Tuning Deep Learning Models, Computer vision and Integrating DL projects in Edge Devices and Cloud**
-
-- 🤝 I’m looking for help with **Building Products from scratch**
-
-- Here is my Portfolio https://naveed-portfolio.pages.dev/
-
-- 👨‍💻 All of my projects are available at [https://github.com/AliNaveed01](https://github.com/AliNaveed01)
-
-- 📫 You can reach out at  **pynaveed.ali@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p>
-  https://linktr.ee/AliNaveed01
-</p>
-<!-- <p align="left">
-<a href="https://linkedin.com/in/naveed ali-l201244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveed ali" height="30" width="40" /></a>
-<a href="https://fb.com/naveed ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naveed ali" height="30" width="40" /></a>
-<a href="https://instagram.com/_naveed__ali_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_naveed__ali_" height="30" width="40" /></a> -->
+<p align="center">
+  <a href="https://github.com/AliNaveed01">
+    <img src="https://img.shields.io/github/followers/AliNaveed01?label=GitHub&style=social" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/naveed-ali-l201244/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pynaveed.ali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://naveed-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-informational?style=flat-square&logo=google-chrome" alt="Portfolio">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me
+
+I’m a **full-time AI Engineer** with **3+ years** of experience building **production-grade computer vision systems** and intelligent ML/DL applications that _see, understand, and act_.
+
+I help businesses and startups **deploy real-world AI** — from edge-powered visual systems to scalable LLM-based applications.
+
+- 🧿 Specializing in **Computer Vision**, Pose Estimation, Re-ID, Real-time Tracking  
+- 🤖 Building **LLM & NLP-based** intelligent agents and RAG pipelines  
+- 🚀 Strong hands-on with **deployment** (Edge Devices, ONNX, FastAPI, Docker)  
+- 📈 Passionate about AI products that create **impact and value**
+
+---
+
+## 🚀 Core Competencies
+
+### 📸 Computer Vision
+`YOLOv8`, `MMDetection`, `OpenCV`, `Detectron2`, `Pose Estimation`, `OCR`, `Segmentation`, `Re-ID`, `Tracking`, `Tesseract`, `Video Intelligence`
+
+### 🧠 Machine & Deep Learning
+`PyTorch`, `TensorFlow`, `Scikit-learn`, `XGBoost`, `CNN`, `RNN`, `Autoencoders`, `GANs`, `TorchServe`
+
+### 🧾 NLP + LLMs
+`LangChain`, `RAG`, `GPT-4`, `Claude`, `Mistral`, `LLaMA`, `Embeddings`, `Text Classification`, `NER`, `FAISS`, `Chroma`
+
+### 📦 MLOps & Deployment
+`FastAPI`, `Flask`, `Docker`, `ONNX`, `TensorRT`, `TFLite`, `Edge Devices (Jetson, ESP32, HailoAI)`, `CI/CD`, `GitHub Actions`
+
+---
+
+## 🧰 Tools & Frameworks
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-E34F26?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-f8d3a2?style=flat&logo=huggingface&logoColor=black)
+
+---
+
+## 📂 Highlighted Projects
+
+| Project | Description |
+|--------|-------------|
+| [**QualiCast**](https://github.com/AliNaveed01/QualiCast) | AI-powered quality control tool with real-time classification |
+| [**ScrapeNExplain**](https://github.com/AliNaveed01/ScrapeNExplain) | LLM-based tool for web scraping + article summarization |
+| [**DeepScene**](https://github.com/AliNaveed01/DeepScene) | Scene classification using custom CNNs |
+| [**SwingRadar**](https://github.com/AliNaveed01/SwingRadar) | Motion tracking via vision-based analytics |
+| [**SunSurplus-AI**](https://github.com/AliNaveed01/SunSurplus-AI) | Solar energy surplus detection via CV/ML |
+| [**AuraStyle**](https://github.com/AliNaveed01/AuraStyle) | Outfit recommendation using vision models |
+| [**Image Captioning (Urdu/English)**](https://github.com/AliNaveed01/ImageCaptioning-Urdu) | BLIP + LSTM powered multi-lingual image captioning |
+| [**Personal Assistant Bot**](https://github.com/AliNaveed01/Personal-Assistant-LLM) | RAG-enabled chatbot integrating Google Calendar + News APIs |
+| [**Mall Monitoring System**](https://github.com/AliNaveed01/Mall-Monitoring) | Pose-based consumer behavior analysis using OpenPose & ReID |
+
+📁 Explore more in my [GitHub Repositories →](https://github.com/AliNaveed01?tab=repositories)
+
+---
+
+## 🏅 Certifications
+
+- ✅ Machine Learning — Stanford (DeepLearning.ai)
+- ✅ Deep Learning Specialization (5-course) — DeepLearning.ai
+- ✅ Data Science Skill Track (9 courses) — DataCamp
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [Portfolio](https://naveed-portfolio.pages.dev/)
+- 🐙 [GitHub](https://github.com/AliNaveed01)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/naveed-ali-l201244/)
+- 📧 pynaveed.ali@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliNaveed01&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliNaveed01&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AliNaveed01&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/AliNaveed01/AliNaveed01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
